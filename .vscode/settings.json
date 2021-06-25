@@ -5,6 +5,7 @@
         "Telsa",
         "Umme",
         "firestore",
-        "reactjs"
+        "reactjs",
+        "reduxjs"
     ]
 }
