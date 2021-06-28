@@ -65,7 +65,7 @@ function Feed() {
                     color = "#7FC15E" 
                     />
                 </div>
-
+            
                 {/* Post */}
                 <FlipMove>
                     {posts.map(({ id, data: { name, description, message, photoUrl } }) => (
@@ -78,7 +78,7 @@ function Feed() {
                         />
                     ))}
                 </FlipMove>
-
+                
             </div>
         </div>
     );
